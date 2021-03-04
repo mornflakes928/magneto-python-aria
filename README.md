@@ -204,6 +204,8 @@ python3 gen_sa_accounts.py --download-keys project_id
 - Run:
 ```
 python3 add_to_team_drive.py -d SharedTeamDriveSrcID
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 ```
 
 # Youtube-dl authentication using .netrc file
